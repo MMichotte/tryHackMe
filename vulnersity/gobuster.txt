@@ -1,0 +1,4 @@
+/css (Status: 301)
+/images (Status: 301)
+/internal (Status: 301)
+/js (Status: 301)

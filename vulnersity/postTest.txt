@@ -1,0 +1,5 @@
+.php not allowed
+.php3 not allowed
+.php4 not allowed
+.php5 not allowed
+.phtml allowed
